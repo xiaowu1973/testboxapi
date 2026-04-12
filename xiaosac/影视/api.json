@@ -331,19 +331,6 @@
             }
         },
         {
-            "key": "黑猫",
-            "name": "黑猫｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "http://app1-0-0.87333.cc",
-                "dataKey": "VwsHxkCViDXEExWa",
-                "dataIv": "VwsHxkCViDXEExWa"
-            }
-        },
-        {
             "key": "灵虎",
             "name": "灵虎｜APP",
             "type": 3,
