@@ -2,7 +2,7 @@
   "spider": "./custom_spider.jar",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "lives": [
-    {
+        {
             "name": "Kimentanm",
             "type": 0,
             "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
@@ -58,7 +58,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "导航|新春贺喜(虎)",
+      "name": "导航|万事顺遂",
       "type": 3,
       "api": "csp_Douban",
       "ext": "./lib/douban.json"
@@ -99,13 +99,6 @@
       }
     },
     {
-      "key": "知秋",
-      "name": "知秋|弹幕",
-      "type": 3,
-      "api": "csp_MYzhiqiu",
-      "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
-    },
-    {
       "key": "独播",
       "name": "独播|弹幕",
       "type": 3,
@@ -129,13 +122,6 @@
       "name": "全网|短剧",
       "type": 4,
       "api": "https://so.yinpai.xyz/duanju.php?type=dquark"
-    },
-    {
-      "key": "duanju",
-      "name": "破碎|短剧",
-      "type": 3,
-      "api": "csp_HBsuipian",
-      "ext":"https://speed.howdbm.com/papaya/papaya-file/files/download/"
     },
     {
       "key": "B站直播",
